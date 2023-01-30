@@ -1,1 +1,4 @@
-print("salom XAYOTBEK")
+print("┌─[TG❤️‍🔥]")
+print("|")
+print("└──────►  @HaYoTBeK_oKeN")
+
