@@ -1,4 +1,5 @@
+tg = input( "📱TG user: ")
 print("┌─[TG❤️‍🔥]")
 print("|")
-print("└──────►  @HaYoTBeK_oKeN")
+print("└──────►", tg)
 
